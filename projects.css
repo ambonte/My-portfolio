@@ -1,0 +1,37 @@
+img{
+    height: 240px;
+    display: inline-flex;
+    border: solid red;
+    
+    
+}
+.myprojects{
+    background-image: linear-gradient(rgba(25,43,76,0.8),rgba(25,43,76,0.8)),url("images/photo1.jpeg");
+background-repeat: no-repeat;
+background-size: cover;
+height: 100vh;
+}
+
+
+h1{
+    font-size: 60px;
+    text-shadow: 2px 2px white;
+    text-align: center;
+}
+p{
+    color:wheat;
+    
+     font-size:20px;
+     padding:30px;
+     text-align: center;
+     font-weight: bold;
+}
+.aboutp{
+    background-color:red;
+    padding: 5px;
+
+}
+.aboutn{
+    background-color:red;
+    padding: 5px;
+}
