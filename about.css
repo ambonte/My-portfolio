@@ -61,7 +61,7 @@ nav ul{
  }
  .about p{
      color:white;
-     font-size:30px;
+     font-size:20px;
      padding:30px;
  }
  .about h3{
@@ -72,8 +72,8 @@ nav ul{
  }
  .about ol{
      color:white;
-     font-size: 30px;
-     padding:10px;
+     font-size: 20px;
+     padding:40px;
  }
  .aboutcontent{
      float: left;
@@ -83,3 +83,4 @@ nav ul{
      float: right;
      padding: 0 50px;
  }
+ 
