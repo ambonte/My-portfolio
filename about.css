@@ -83,4 +83,14 @@ nav ul{
      float: right;
      padding: 0 50px;
  }
+ .aboutp{
+     background-color:red;
+     padding: 5px;
+     transform: translateY(45kv);
+
+ }
+ .aboutn{
+     background-color:red;
+     padding: 5px;
+ }
  
