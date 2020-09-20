@@ -7,5 +7,12 @@
 
 
 .quick{
-
+font-size: 30px;
+padding:20px;
 }
+    .contacts a{
+        border:solid black;
+        background-color:black;
+        margin:20px;
+        
+    }
